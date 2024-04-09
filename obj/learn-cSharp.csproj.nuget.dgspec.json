@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tylerguarda/Code/learn-cSharp/learn-cSharp.csproj": {}
+    "C:\\Users\\tyler\\dev\\learn-cSharp\\learn-cSharp.csproj": {}
   },
   "projects": {
-    "/Users/tylerguarda/Code/learn-cSharp/learn-cSharp.csproj": {
+    "C:\\Users\\tyler\\dev\\learn-cSharp\\learn-cSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tylerguarda/Code/learn-cSharp/learn-cSharp.csproj",
+        "projectUniqueName": "C:\\Users\\tyler\\dev\\learn-cSharp\\learn-cSharp.csproj",
         "projectName": "learn-cSharp",
-        "projectPath": "/Users/tylerguarda/Code/learn-cSharp/learn-cSharp.csproj",
-        "packagesPath": "/Users/tylerguarda/.nuget/packages/",
-        "outputPath": "/Users/tylerguarda/Code/learn-cSharp/obj/",
+        "projectPath": "C:\\Users\\tyler\\dev\\learn-cSharp\\learn-cSharp.csproj",
+        "packagesPath": "C:\\Users\\tyler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tyler\\dev\\learn-cSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tylerguarda/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\tyler\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
