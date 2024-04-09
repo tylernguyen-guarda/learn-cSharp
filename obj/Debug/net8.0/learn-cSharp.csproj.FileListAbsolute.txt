@@ -1,0 +1,15 @@
+/Users/tylerguarda/Code/learn-cSharp/bin/Debug/net8.0/learn-cSharp
+/Users/tylerguarda/Code/learn-cSharp/bin/Debug/net8.0/learn-cSharp.deps.json
+/Users/tylerguarda/Code/learn-cSharp/bin/Debug/net8.0/learn-cSharp.runtimeconfig.json
+/Users/tylerguarda/Code/learn-cSharp/bin/Debug/net8.0/learn-cSharp.dll
+/Users/tylerguarda/Code/learn-cSharp/bin/Debug/net8.0/learn-cSharp.pdb
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/learn-cSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/learn-cSharp.AssemblyInfoInputs.cache
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/learn-cSharp.AssemblyInfo.cs
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/learn-cSharp.csproj.CoreCompileInputs.cache
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/learn-cSharp.sourcelink.json
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/learn-cSharp.dll
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/refint/learn-cSharp.dll
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/learn-cSharp.pdb
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/learn-cSharp.genruntimeconfig.cache
+/Users/tylerguarda/Code/learn-cSharp/obj/Debug/net8.0/ref/learn-cSharp.dll
