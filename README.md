@@ -5,3 +5,5 @@ Learn .net and C#
 ---Creating a .net project ---
 1. Through VSCode (cmd+shift+p > project template > select template) >>> debug and run
 2. through console navigate to correct dir then >>> (dotnet new console) >>> dotnet run
+
+Can utilize Console.ReadLine() to leave terminal open
